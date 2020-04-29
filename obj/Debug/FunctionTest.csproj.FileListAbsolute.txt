@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Cho\First\FunctionTest\bin\Debug\FunctionTest.exe.config
+C:\Users\Administrator\Documents\Cho\First\FunctionTest\bin\Debug\FunctionTest.exe
+C:\Users\Administrator\Documents\Cho\First\FunctionTest\bin\Debug\FunctionTest.pdb
+C:\Users\Administrator\Documents\Cho\First\FunctionTest\obj\Debug\FunctionTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Cho\First\FunctionTest\obj\Debug\FunctionTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Cho\First\FunctionTest\obj\Debug\FunctionTest.exe
+C:\Users\Administrator\Documents\Cho\First\FunctionTest\obj\Debug\FunctionTest.pdb
